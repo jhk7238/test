@@ -1,4 +1,4 @@
 clean:
-    echo "make clean"
- all:
-    gcc test.c
+	echo "make clean"
+all:
+	gcc test.c
